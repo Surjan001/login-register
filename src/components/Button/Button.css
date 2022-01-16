@@ -17,3 +17,6 @@ button{
 button:hover{
     cursor: pointer;
 }
+p{
+    width: 150px;
+}
