@@ -1,0 +1,18 @@
+.input-root{
+    width: auto;
+    padding: 5px;
+    margin: 5px auto;
+}
+input{
+    width: 75%;
+    height: auto;
+    padding: 5px;
+    border: none;
+    border: 2px solid rgb(97, 253, 136);
+    background: rgb(216, 251, 226);
+    border-radius:10px ;
+    outline: none;
+}
+input:focus{
+    background: rgb(255, 255, 255);
+}

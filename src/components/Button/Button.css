@@ -1,0 +1,19 @@
+.button-root{
+    width: auto;
+    margin: 10px auto;
+    padding: 5px;
+}
+button{
+    width: 78%;
+    height: auto;
+    padding: 5px;
+    border: none;
+    border: 2px solid rgb(97, 253, 136);
+    border-radius: 10px;
+    outline: none;
+    background: white;
+    color: rgb(31, 110, 51);
+}
+button:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,53 @@
+.nav-root{
+    width: auto;
+    height: auto;
+    padding: 15px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    background: linear-gradient(transparent,rgb(66, 66, 223),rgb(32, 32, 185));
+    border-radius: 5px;
+}
+.nav-header{
+    width: 25%;
+    height: auto;
+    color: white;
+}
+.nav-main{
+    width: 50%;
+    height: auto;
+}
+ul{
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 50px;
+}
+li{
+    border: 2px solid white;
+    width: 25%;
+    border-radius: 5px;
+    color: white;
+}
+li:hover{
+    cursor: pointer;
+    background: linear-gradient(transparent,rgb(32, 32, 185));
+    border: 2px solid rgb(97, 253, 136);
+}
+.link{
+    width: 100%;
+    height: auto;
+    color: white;
+    text-decoration: none;
+}
+.link:visited{
+    color: white;
+    text-decoration: none;    
+}
+.nav-button{
+    width: 100%;
+    border: none;
+    color: white;
+    background: none;
+}

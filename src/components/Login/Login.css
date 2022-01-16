@@ -1,0 +1,27 @@
+.login-root{
+    width: 25%;
+    height: auto;
+    margin: 5px auto;
+    padding: 15px;
+    border: 3px solid rgb(97, 253, 136);
+    border-radius: 15px;
+    background: linear-gradient(rgb(32, 32, 185),rgb(66, 66, 223),rgb(32, 32, 185));
+}
+.login-header{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    color: white;
+}
+.login-form{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    color: rgb(97, 253, 136);
+}
+h5{
+   text-decoration: underline; 
+}
+h5:hover{
+    cursor: pointer;
+}
